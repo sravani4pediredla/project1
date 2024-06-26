@@ -1,0 +1,37 @@
+.full-page{
+  height: 100vh;
+}
+.photo{
+ height: 485px;
+  
+}
+.celcius-input, .fahernheit-input, .kelvin-input {
+  padding: 6px 10px;
+}
+.converter-background{
+  background-color: #2d9c9c;
+  height: 63vh;
+  margin-top: 75px;
+}
+.text{
+  padding-top: 30px;
+  color: white;
+}
+.icon{
+  color: white;
+  background-color: rgb(75, 73, 73);
+  padding: 10px 15px;
+}
+.clear{
+ margin-left:90px;
+ padding: 8px 15px;
+ font-size: 14px;
+ font-weight: bold;
+ background-color: rgb(75, 73, 73);
+ color: white;
+ border: none;
+ border-radius: 20px;
+}
+.clear:active{
+  padding: 7px 14px;
+}
